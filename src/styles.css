@@ -1,0 +1,24 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: orange;
+}
+
+.App.button {
+  background-color: blue;
+}
+
+body {
+  margin: 0;
+  background-color: #f3f4f6;
+}
+
+.container {
+  padding: 0rem 1rem 0rem 1rem;
+  padding-left: 70px;
+}
+
+.container-center {
+  max-width: 500px;
+  margin: auto;
+}
